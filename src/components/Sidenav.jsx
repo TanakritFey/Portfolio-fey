@@ -137,7 +137,7 @@ const Navbar = () => {
           <li className="w-[165px] h-[70px] flex justify-between items-center ml-[-88px] hover:ml-[0px] duration-[200ms] rounded-b-lg hover:rounded-r-lg bg-[#C4E3B5]">
             <a
               className="flex justify-between items-center w-full font-Nanum"
-              href="/"
+              href="https://www.canva.com/design/DAFtr2cbFno/4DCvVxOQp6ZjHyCujiwvTw/view?utm_content=DAFtr2cbFno&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"
               target="_blank"
               rel="noopener noreferrer"
             >
