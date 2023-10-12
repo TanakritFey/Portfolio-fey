@@ -46,7 +46,7 @@ const Navbar = () => {
             </a>
           </li>
           <li className=" max-w-xs overflow-hidden bg-cover bg-no-repeat">
-            <a href="#projects" className="font-Bangers text-3xl mr-2 max-w-xs transition duration-300 ease-in-out hover:scale-110 w-[75%] text-[#ffffff]">
+            <a href="#project" className="font-Bangers text-3xl mr-2 max-w-xs transition duration-300 ease-in-out hover:scale-110 w-[75%] text-[#ffffff]">
               Project
             </a>
           </li>
@@ -76,17 +76,11 @@ const Navbar = () => {
             : "absolute top-0 left-0 w-full h-screen bg-[#419197] flex flex-col justify-center items-center"
         }
       >
-        <li className="py-6 font-Bangers text-[#FFFFFF] text-[2.5rem]">Home</li>
-        <li className="py-6 font-Bangers text-[#FFFFFF] text-[2.5rem]">About</li>
-        <li className="py-6 font-Bangers text-[#FFFFFF] text-[2.5rem]">
-          Skills
-        </li>
-        <li className="py-6 font-Bangers text-[#FFFFFF] text-[2.5rem]">
-          Project
-        </li>
-        <li className="py-6 font-Bangers text-[#FFFFFF] text-[2.5rem]">
-          Contact
-        </li>
+        <li className="py-6 font-Bangers text-[#FFFFFF] text-[2.5rem]"><a href="#main">Home</a></li>
+        <li className="py-6 font-Bangers text-[#FFFFFF] text-[2.5rem]"><a href="#about">About</a></li>
+        <li className="py-6 font-Bangers text-[#FFFFFF] text-[2.5rem]"><a href="#skill"></a>Skills</li>
+        <li className="py-6 font-Bangers text-[#FFFFFF] text-[2.5rem]"><a href="#project">Project</a></li>
+        <li className="py-6 font-Bangers text-[#FFFFFF] text-[2.5rem]"><a href="#contact">Contact</a></li>
       </ul>
 
       {/* Social icons */}

@@ -192,7 +192,7 @@ const Projects = () => {
               {/* button */}
               <div className="flex gap-5 justify-center my-[1rem]">
                 <a
-                  href="https://github.com/tanawinttp/Colmar-Academy-Test-JSD5"
+                  href="https://github.com/TanakritFey/Pokemon"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-[#ffffff] rounded-md px-[1.5rem] max-w-[7rem] h-[2.5rem] text-[#000000] flex items-center justify-center hover:bg-[#C987E9] hover:text-[#F8C78E]"
@@ -202,7 +202,7 @@ const Projects = () => {
                   </span>
                 </a>
                 <a
-                  href="https://colmar-academy-test-jsd-5.vercel.app/"
+                  href="https://pokemon-api-ten-khaki.vercel.app/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-[#ffffff] rounded-md px-[1.5rem] max-w-[7rem] h-[2.5rem] text-[#000000] flex items-center justify-center hover:bg-[#C987E9] hover:text-[#F8C78E]"
@@ -241,7 +241,7 @@ const Projects = () => {
               {/* button */}
               <div className="flex gap-5 justify-center my-[1rem]">
                 <a
-                  href="https://github.com/tanawinttp/burger"
+                  href="https://replit.com/@RastaLife/24TanakritFeyefy-practice-find-your-hat"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-[#ffffff] rounded-md px-[1.5rem] max-w-[7rem] h-[2.5rem] text-[#000000] flex items-center justify-center hover:bg-[#C987E9] hover:text-[#F8C78E]"
@@ -251,7 +251,7 @@ const Projects = () => {
                   </span>
                 </a>
                 <a
-                  href="https://burger-puce.vercel.app/"
+                  href="https://replit.com/@RastaLife/24TanakritFeyefy-practice-find-your-hat"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-[#ffffff] rounded-md px-[1.5rem] max-w-[7rem] h-[2.5rem] text-[#000000] flex items-center justify-center hover:bg-[#C987E9] hover:text-[#F8C78E]"
