@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Bubblegum+Sans&display=swap'); */
+/* @import url('https://fonts.googleapis.com/css2?family=Chewy&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Original+Surfer&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    li {
+      @apply px-4;
+      @apply cursor-pointer;
+    }
+  }
